@@ -1,28 +1,24 @@
 # D3 Exercise 1 – SVG
 
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository.
+> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help.
 
 
 ## Clone the Remote Repository
 
-1.	Accept the GitHub Classroom invitation to this exercise @ the module moodle page.
-
-1.	Copy the clone URL from your new repository ``d3-<YOURACCOUNT>``
+This will copy some ``d3`` program files to your ``htdocs`` folder.
 
 1.	Type these commands into your *Git Bash* client:
 
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
-	$ git clone <URL> d3
+	$ git clone https://github.com/noucampdotorgSSAD2020/d3.git d3
 	$ cd d3
-	$ ls
-	$ git status
+	$ dir
 
 	```
 
-	Check your ``htdocs`` folder.  You should have a new folder called ``d3`` with some files in it.
+Check your ``htdocs`` folder.  You should have a new folder called ``d3`` with some files in it.
 
-		
 
 ## Part 1
 
@@ -57,16 +53,6 @@
 
 	![img](../images/lineChart1.png)
 
-1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
-
-	```
-	$ git status
-	$ git add .
-	$ git commit -m "Exercise 1 Part 1 - DONE|PARTIAL|HELP"
-	$ git push origin master
-	$ git status
-
-	```
 
 ## Part 2
 
@@ -80,13 +66,4 @@
 
 	Add the text dynamically using JavaScript.
 
-1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
-	```
-	$ git status
-	$ git add .
-	$ git commit -m "Exercise 1 Part 2 - DONE|PARTIAL|HELP"
-	$ git push origin master
-	$ git status
-
-	```
