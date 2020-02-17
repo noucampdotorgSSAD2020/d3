@@ -10,5 +10,16 @@
     ![](../images/d3Path_html.png)
 
 
+## Part 2 - D3 Line Generator
 
+1.	Open the code [http://localhost/d3/d3lineGenerator.html](http://localhost/d3/d3lineGenerator.html) and modify the code to render these using line generators:
+
+    ![](../images/d3lineGenerator_html.png)
+
+
+## Part 3 - D3 Area Generator
+
+1.	Open the code [http://localhost/d3/d3areaGenerator.html](http://localhost/d3/d3areaGenerator.html) and modify the code to render these using an area generator:
+
+    ![](../images/d3areaGenerator_html.png)
 
